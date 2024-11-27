@@ -1,8 +1,5 @@
 name: My First GitHub Actions
-on:
-  push:
-    paths:
-      - 'Github-Actions/addition.py'
+on: [push]
 
 jobs:
   build:
