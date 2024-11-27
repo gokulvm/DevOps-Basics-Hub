@@ -26,5 +26,5 @@ jobs:
 
     - name: Run tests
       run: |
-        cd src/Github-Actions/
+        cd Github-Actions/
         python -m pytest addition.py
