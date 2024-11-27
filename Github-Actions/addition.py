@@ -1,5 +1,5 @@
 def add(a, b):
-    return a + b #test1
+    return a + b #test2
 
 def test_add():
     assert add(1, 2) == 3
